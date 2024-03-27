@@ -1,5 +1,4 @@
-﻿namespace topic_3_programming_csharp
-{
+
     internal class Program
     {
         static void Main(string[] args)
@@ -68,4 +67,4 @@
             Console.WriteLine($"Percentage of correct answers: {totalPercentage:P2}%");
         }
     }
-}
+
